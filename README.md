@@ -19,15 +19,20 @@ The API Server is built on top of the FastAPI Framework: https://fastapi.tiangol
 
 The current test API server can be run via the following command: 
 
-``
+`cd api
+source .venv/bin/activate
+fastapi dev main.py`
 
-The API server is then reachable at the following address: 
+The API server is then reachable at the following address:
+http://localhost:8000/
 
-The Swagger documentation can be reached at the following URL: 
+The Swagger documentation can be reached at the following URL:
+http://localhost:8000/docs
 
 ### UI Web App
 
-The Web App is built on top of the Django Framework: 
+The Web App is built on top of the Django Framework:
+https://www.djangoproject.com/
 
 The current test Web App can be run via the following command:
 `cd ui
