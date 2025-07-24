@@ -19,9 +19,11 @@ The API Server is built on top of the FastAPI Framework: https://fastapi.tiangol
 
 The current test API server can be run via the following command: 
 
-`cd api
-source .venv/bin/activate
-fastapi dev main.py`
+`cd api`
+
+`source .venv/bin/activate`
+
+`fastapi dev main.py`
 
 The API server is then reachable at the following address:
 http://localhost:8000/
@@ -35,9 +37,12 @@ The Web App is built on top of the Django Framework:
 https://www.djangoproject.com/
 
 The current test Web App can be run via the following command:
-`cd ui
-source .venv/bin/activate
-python3 manage.py runserver 8002`
+
+`cd ui`
+
+`source .venv/bin/activate`
+
+`python3 manage.py runserver 8002`
 
 The Web App is then reachable at the following address: 
 http://localhost:8002/
