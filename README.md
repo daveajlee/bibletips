@@ -1,6 +1,6 @@
-# BibleTips
-
-## Introduction
+<p align="center">
+<img src="https://www.davelee.de/common/assets/img/portfolio/bibletips.webp" alt="BibleTips" width="300" height="300">
+</p>
 
 BibleTips enables users to get an overview of any notes they have taken related to the Christian bible. 
 
